@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "cover-img": "https://ibb.co/LPMR7JL",
+    "title": "The Art of Programming",
+    "author": "John Smith",
+    "author_image": "https://i.ibb.co/D9wWRM6/olivia.jpg",
+    "posted-date": "2024-03-13",
+    "reading_time": 15,
+    "hash-tags": ["programming", "coding", "development"]
+  },
+  {
+    "id": 2,
+    "cover-img": "https://i.ytimg.com/vi/_LZzfpjepoY/maxresdefault.jpg",
+    "title": "Exploring the Universe",
+    "author": "Jane Doe",
+    "author_image": "https://i.ibb.co/fDbPv7h/Noha.jpg",
+    "posted-date": "2024-03-12",
+    "reading_time": 20,
+    "hash-tags": ["space", "science", "astronomy"]
+  },
+  {
+    "id": 3,
+    "cover-img": "https://itchronicles.com/wp-content/uploads/2020/09/How-Facebook-uses-Artificial-intelligence-1024x576.jpg",
+    "title": "Cooking Essentials",
+    "author": "Emily Brown",
+    "author_image": "https://i.ibb.co/XVHM7NP/kevin.jpg",
+    "posted-date": "2024-03-11",
+    "reading_time": 10,
+    "hash-tags": ["cooking", "recipes", "food"]
+  },
+  {
+    "id": 4,
+    "cover-img": "https://ibb.co/LPMR7JL",
+    "title": "Fitness Journey",
+    "author": "Michael Johnson",
+    "author_image": "https://i.ibb.co/k4tkc42/oliviar-harris.jpg",
+    "posted-date": "2024-03-10",
+    "reading_time": 25,
+    "hash-tags": ["fitness", "exercise", "health"]
+  },
+  {
+    "id": 5,
+    "cover-img": "https://ibb.co/LPMR7JL",
+    "title": "Art and Creativity",
+    "author": "Samantha White",
+    "author_image": "https://i.ibb.co/YD2mqH7/amy.jpg",
+    "posted-date": "2024-03-09",
+    "reading_time": 18,
+    "hash-tags": ["art", "creativity", "inspiration"]
+  },
+  {
+    "id": 6,
+    "cover-img": "https://s3.amazonaws.com/images.seroundtable.com/bing-indexing-issues-1603799404.jpg",
+    "title": "Travel Diaries",
+    "author": "David Green",
+    "author_image": "https://i.ibb.co/rdTZrCM/dev.jpg",
+    "posted-date": "2024-03-08",
+    "reading_time": 30,
+    "hash-tags": ["travel", "adventure", "explore"]
+  },
+  {
+    "id": 7,
+    "cover-img": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/maxresdefault.jpg",
+    "title": "History Unraveled",
+    "author": "Sophia Taylor",
+    "author_image": "https://i.ibb.co/yQFJ42h/ava.jpg",
+    "posted-date": "2024-03-07",
+    "reading_time": 22,
+    "hash-tags": ["history", "culture", "past"]
+  },
+  {
+    "id": 8,
+    "cover-img": "https://huggingface.co/front/thumbnails/dialogpt.png",
+    "title": "Business Insights",
+    "author": "Daniel Miller",
+    "author_image": "https://i.ibb.co/6r4cx4P/ethen-clack.png",
+    "posted-date": "2024-03-06",
+    "reading_time": 17,
+    "hash-tags": ["business", "entrepreneurship", "finance"]
+  },
+  {
+    "id": 9,
+    "cover-img": "https://github.githubassets.com/images/modules/site/social-cards/copilot-ga.png",
+    "title": "Gardening Tips",
+    "author": "Olivia Robinson",
+    "author_image": "https://i.ibb.co/YZN9rQZ/tina.jpg",
+    "posted-date": "2024-03-05",
+    "reading_time": 12,
+    "hash-tags": ["gardening", "plants", "nature"]
+  },
+  {
+    "id": 10,
+    "cover-img": "https://cdn2.lamag.com/wp-content/uploads/sites/6/2023/01/replika2-ai.jpg",
+    "title": "Mindfulness Meditation",
+    "author": "William Clark",
+    "author_image": "https://i.ibb.co/xsfkwN2/john.jpg",
+    "posted-date": "2024-03-04",
+    "reading_time": 28,
+    "hash-tags": ["mindfulness", "meditation", "wellness"]
+  }
+]
