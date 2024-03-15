@@ -1,8 +1,8 @@
 import React from "react";
 import { IoBookmarkSharp } from "react-icons/io5";
-const Blog=({blog,handleAddToBookmark})=>{
-   const {title,"cover-img":cover, author,author_image, reading_time,"posted-date":posted_date,"hash-tags":hash_tags}=blog;
-    console.log(blog);
+const Blog=({blog,handleAddToBookmark,handleMarkAsRead})=>{
+   const {id,title,"cover-img":cover, author,author_image, reading_time,"posted-date":posted_date,"hash-tags":hash_tags}=blog;
+    
     return(
         <div >
             <img className="w-full"src={cover} alt={`Cover picture of the title ${title}`} />
@@ -26,6 +26,7 @@ const Blog=({blog,handleAddToBookmark})=>{
                 hash_tags.map((hash,index)=> <span key={index} className="px-2"><a href="">#{hash}</a></span>)
             }
             </p>
+            <button onClick={()=>handleMarkAsRead(id,reading_time)} className="text-purple-800 font-bold underline">Mark as read</button>
         </div>
     );
 };
